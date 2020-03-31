@@ -11,7 +11,7 @@ def join_nested_strings(src)
     end 
     count += 1 
   end 
-  message = string_array.join(" ")l 
+  message = string_array.join(" ")
   # src will be an Array of Arrays of Strings and Integers
   # Combine all Strings present in the AoA into a single value and return it
   message
